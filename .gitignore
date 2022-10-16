@@ -3,3 +3,6 @@
 ################################################################################
 
 /jQueryAjaxCrud/.vs
+/.vs
+/jQueryAjaxCrud/bin
+/jQueryAjaxCrud/obj
